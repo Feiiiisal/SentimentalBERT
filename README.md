@@ -38,7 +38,9 @@ An enthusiast in machine learning and natural language processing
 For a detailed walkthrough of the project, refer to the article: Insightful Analytics: [Fine-Tuning Pre-trained Models for Robust Twitter Sentiment Analysis](https://medium.com/@feisalhassan77/insightful-analytics-fine-tuning-ai-for-robust-twitter-sentiment-analysis-8b770ffd6edb)
 
 ## App Screenshots
-(Add your app screenshots here)
+
+![App Screenshot](./Images/app_screenshot.png)
+
 
 ## Deployed App Link
 
