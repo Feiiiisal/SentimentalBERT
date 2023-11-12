@@ -39,7 +39,7 @@ For a detailed walkthrough of the project, refer to the article: Insightful Anal
 
 ## App Screenshots
 
-![App Screenshot](./Images/App Screenshot.png)
+![App Screenshot](./Images/Screenshot.png)
 
 
 ## Deployed App Link
