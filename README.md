@@ -21,9 +21,8 @@ This project focuses on fine-tuning a pre-trained sentiment analysis model to cl
 ### Installing Necessary Libraries
 Install the required libraries using the following command:
 ```bash
-pip install accelerate transformers torch pandas numpy datasets huggingface_hub contractions nltk matplotlib.pyplot wordcloud
+pip install accelerate transformers torch pandas numpy datasets huggingface_hub contractions
 ```
-
 ## Login to Hugging Face Hub
 
 Use the notebook_login() function to log in to the Hugging Face Hub for accessing and managing datasets and models.
