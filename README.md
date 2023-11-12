@@ -39,7 +39,7 @@ For a detailed walkthrough of the project, refer to the article: Insightful Anal
 
 ## App Screenshots
 
-![App Screenshot](./Images/app_screenshot.png)
+![App Screenshot](./Images/App_Screenshot.png)
 
 
 ## Deployed App Link
@@ -47,8 +47,8 @@ For a detailed walkthrough of the project, refer to the article: Insightful Anal
 Access the deployed sentiment analysis web application here: [Deployed App](https://huggingface.co/spaces/Feiiisal/Twitter_Sentiment_Analysis_App)
 
 ## Exploratory Data Analysis
-T
-he project includes an extensive exploratory data analysis (EDA) section, visualizing sentiment distributions, tweet lengths, and word clouds for different sentiments.
+
+The project includes an extensive exploratory data analysis (EDA) section, visualizing sentiment distributions, tweet lengths, and word clouds for different sentiments.
 
 ## Data Cleaning and Preprocessing
 
