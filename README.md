@@ -41,6 +41,13 @@ For a detailed walkthrough of the project, refer to the article: Insightful Anal
 
 ![App Screenshot](./Images/Screenshot.png)
 
+## Docker
+
+Please make sure you are in the SRC directory to build the docker image.
+
+Then run this code in the terminal to build the docker image.
+
+`docker build -t twitter_sentiment_analysis_app2 .`
 
 ## Deployed App Link
 
